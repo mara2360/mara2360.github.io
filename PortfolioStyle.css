@@ -1,4 +1,4 @@
-							/*SMOOTH SCROLLING*/
+ 							/*SMOOTH SCROLLING*/
 html
 {
 	scroll-behavior: smooth;
@@ -148,6 +148,13 @@ p
 {
 	color: white;
 	font-weight: bold;
+}
+
+.examples
+{
+	color: white;
+	font-weight: bold;
+	text-align: center;
 }
 
 .portfolio
